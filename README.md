@@ -1,4 +1,4 @@
-# StudyFlow — AI Study Assistant
+# StudyFlow — AI Study Assistant.
 
 ## Overview
 StudyFlow is an AI-powered study assistant that allows users to turn free-form notes or topics into structured, interactive study sessions. It leverages the Gemini API to generate custom flashcards and multiple-choice quizzes on demand.
